@@ -8,8 +8,15 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 12,
+      "services": [
+        {
+          "name": "Servico 2",
+          "cost": "12",
+          "description": "teset 2",
+          "id": "5a39ec46-2f00-4d16-b04b-13c3a3441ecd"
+        }
+      ]
     }
   ],
   "categories": [
