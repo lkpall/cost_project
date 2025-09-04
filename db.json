@@ -17,6 +17,102 @@
           "id": "5a39ec46-2f00-4d16-b04b-13c3a3441ecd"
         }
       ]
+    },
+    {
+      "id": "2f42",
+      "name": "Enel Pes Digital",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 350,
+      "services": [
+        {
+          "name": "Fazer estudo na API do SGI",
+          "cost": "50",
+          "description": "teste",
+          "id": "7a4a0fbb-f2e3-4aeb-b11a-e41808d8781d"
+        },
+        {
+          "name": "Estudar integração com AI Hub",
+          "cost": "100",
+          "description": "estudo",
+          "id": "4971033b-31c6-4b30-be10-b62de622c06a"
+        },
+        {
+          "name": "Levantamento bibliográfico",
+          "cost": "200",
+          "description": "bibliografia",
+          "id": "2472df23-0bf3-4461-8135-6f5b3e794f8c"
+        }
+      ]
+    },
+    {
+      "id": "d725",
+      "name": "Sistema de otimização de geração",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 900,
+      "services": [
+        {
+          "name": "Montagem do documento de arquitetura",
+          "cost": "200",
+          "description": "arq",
+          "id": "2b3d4fcb-bf4e-4fdb-8418-841dee59c0e6"
+        },
+        {
+          "name": "Estudo de caso de usinas da CPFL",
+          "cost": "300",
+          "description": "CPFL",
+          "id": "a82ee5cb-b102-4064-acbc-47dd00c0b789"
+        },
+        {
+          "name": "Integração com o Synapse",
+          "cost": "400",
+          "description": "integração",
+          "id": "de96e6bd-9aa4-404e-8131-7b7c336b9b66"
+        }
+      ]
+    },
+    {
+      "id": "ee2a",
+      "name": "Speak to text",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Implantação do ambiente de produção",
+          "cost": "500",
+          "description": "deploy",
+          "id": "85850b0f-7f51-4cf6-b260-9ee377772aff"
+        }
+      ]
+    },
+    {
+      "id": "9c01",
+      "name": "Madereira Cupai",
+      "budget": "3000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Levantamento arquitetônico",
+          "cost": "500",
+          "description": "Levantamento",
+          "id": "8c4171dc-e9b6-4a27-afd6-668dd2a23c50"
+        }
+      ]
     }
   ],
   "categories": [

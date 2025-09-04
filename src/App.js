@@ -9,6 +9,7 @@ import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 import Projects from "./components/pages/Projects";
 import Project from "./components/pages/Project";
+import TableServices from "./components/pages/TableServices";
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <Route path="/company" element={<Company />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/project/:id" element={<Project />} />
+          <Route path="/table" element={<TableServices />} />
         </Routes>
       </Container>
       <Footer />
